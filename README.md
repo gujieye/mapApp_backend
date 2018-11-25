@@ -1,10 +1,9 @@
 # mapApp_backend
-#just a demo
 
-#部署
+部署
 cnpm install
-#启动
+启动
 node bin/www
 
-#矢量瓦片服务接口
-#localhost:9871/mvt/{z}/{x}/{y}.mvt
+矢量瓦片服务接口
+localhost:9871/mvt/{z}/{x}/{y}.mvt
