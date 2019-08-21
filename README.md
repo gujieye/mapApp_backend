@@ -1,11 +1,11 @@
 # mapApp_backend
 
-部署
+clone仓库代码至本地
 
 cnpm install
 
 
-启动
+启动服务
 
 node bin/www
 
